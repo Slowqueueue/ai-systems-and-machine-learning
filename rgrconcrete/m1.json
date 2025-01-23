@@ -1,0 +1,17 @@
+{
+    "type": "<class 'sklearn.linear_model._base.LinearRegression'>",
+    "normNeed": false,
+    "standartNeed": false,
+    "input": [
+        "Cement",
+        "Superplasticizer",
+        "Age"
+    ],
+    "output": [
+        "Concrete_compressive_strength"
+    ],
+    "R2": 0.5889245405879194,
+    "RMSE": 10.625700876336522,
+    "trainData": "concrete_nan_PREPARED2.csv",
+    "modelName": "m1.dump"
+}

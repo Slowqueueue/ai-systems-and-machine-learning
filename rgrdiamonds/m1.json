@@ -1,0 +1,17 @@
+{
+    "type": "<class 'sklearn.linear_model._base.LinearRegression'>",
+    "normNeed": false,
+    "standartNeed": false,
+    "input": [
+        "x",
+        "cut",
+        "carat"
+    ],
+    "output": [
+        "price"
+    ],
+    "R2": 0.854757144754976,
+    "RMSE": 944.5145320994378,
+    "trainData": "diamonds_nan_PREPARED3.csv",
+    "modelName": "m1.dump"
+}

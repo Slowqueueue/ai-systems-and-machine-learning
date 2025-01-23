@@ -1,0 +1,24 @@
+{
+    "type": "<class 'keras.src.models.sequential.Sequential'>",
+    "normNeed": true,
+    "standartNeed": false,
+    "scalerNormForX": "scalerNormForX.dump",
+    "scalerNormForY": "scalerNormForY.dump",
+    "input": [
+        "Cement",
+        "Blast_Furnace_Slag",
+        "Fly_Ash",
+        "Water",
+        "Superplasticizer",
+        "Coarse_Aggregate",
+        "Fine_Aggregate",
+        "Age"
+    ],
+    "output": [
+        "Concrete_compressive_strength"
+    ],
+    "R2": 0.7868092060089111,
+    "RMSE": 0.1000667887559507,
+    "trainData": "concrete_nan_PREPARED2.csv",
+    "modelName": "m2.dump"
+}

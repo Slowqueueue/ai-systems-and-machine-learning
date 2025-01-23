@@ -1,0 +1,25 @@
+{
+    "type": "<class 'keras.src.models.sequential.Sequential'>",
+    "normNeed": true,
+    "standartNeed": false,
+    "scalerNormForX": "scalerNormForX.dump",
+    "scalerNormForY": "scalerNormForY.dump",
+    "input": [
+        "x",
+        "y",
+        "z",
+        "cut",
+        "color",
+        "clarity",
+        "table",
+        "carat",
+        "depth"
+    ],
+    "output": [
+        "price"
+    ],
+    "R2": 0.976107120513916,
+    "RMSE": 0.03812172043026436,
+    "trainData": "diamonds_nan_PREPARED3.csv",
+    "modelName": "m2.dump"
+}
